@@ -1,0 +1,14 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://i.imgur.com/q7xPzfg.jpg",
+    "size": "full",
+    "aspectRatio": "20:20",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.nownews.com/news/6195592"
+    }
+  }
+}
